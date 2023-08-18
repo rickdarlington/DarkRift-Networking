@@ -89,7 +89,7 @@ Global
 		SolutionGuid = {D5304029-AEE2-4FC9-AB6C-0DF439687502}
 	EndGlobalSection
 	GlobalSection(MonoDevelopProperties) = preSolution
-		outputpath = ../unordinal/dr-build
-		intermediateoutputpath = ../unordinal/dr-build
+		outputpath = ../dr-build
+		intermediateoutputpath = ../dr-build
 	EndGlobalSection
 EndGlobal
